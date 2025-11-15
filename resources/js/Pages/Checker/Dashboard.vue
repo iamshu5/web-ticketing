@@ -67,9 +67,6 @@ const checkPassenger = (id) => {
     <div class="space-y-6">
       <div class="mb-6">
         <h1 class="text-3xl font-bold text-gray-800">Dashboard Checker</h1>
-      </div>
-      <div class="mb-6">
-        <h1 class="text-3xl font-bold text-gray-800">Dashboard Checker</h1>
         <p class="text-gray-600 mt-2">
           {{ new Date().toLocaleDateString('id-ID', { 
             weekday: 'long', 
